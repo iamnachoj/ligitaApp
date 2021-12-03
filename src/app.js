@@ -1,11 +1,14 @@
 import React from "react";
 import Laliga from "./components/laliga";
+import Header from "./components/header";
+import Footer from "./components/footer";
 
 export default function App() {
   return (
     <div>
-      <h1 className="title"> Football Teams </h1>
+      <Header />
       <Laliga />
+      <Footer />
     </div>
   );
 }
