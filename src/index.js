@@ -3,4 +3,4 @@ import ReactDOM from "react-dom";
 import App from "./app";
 
 ReactDOM.render(<App />, document.getElementById("root"));
-//https://www.logofootball.net/
+//for pics check out https://www.logofootball.net/

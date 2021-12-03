@@ -11,7 +11,16 @@ body {
   padding: 0 16px;
 }
 header {
+  font-size: 1.5rem;
+  margin: 25px 25px 10px;
+  font-family: "Saira", sans-serif;
+}
+.filter-bar {
   margin: 30px;
+  font-size: 105%;
+  padding: 10px;
+  width: 30%;
+  border-radius: 10px;
 }
 .card {
   background: #fff;
@@ -63,9 +72,15 @@ footer {
   .grid-container {
     grid-template-columns: auto auto;
   }
+  .filter-bar {
+    width: 60%;
+  }
 }
 @media only screen and (max-width: 620px) {
   .grid-container {
     grid-template-columns: auto;
+  }
+  .filter-bar {
+    width: 90%;
   }
 }
