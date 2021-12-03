@@ -1,4 +1,4 @@
-# Football-Clubs
+# Ligita App
 
 Created with CodeSandbox, football clubs descriptions and information.
 
