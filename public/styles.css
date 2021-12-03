@@ -81,6 +81,10 @@ footer {
     grid-template-columns: auto;
   }
   .filter-bar {
-    width: 90%;
+    width: 80%;
+  }
+  header {
+    font-size: 1rem;
+    text-align: center;
   }
 }

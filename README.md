@@ -1,6 +1,6 @@
 # Football-Clubs
 
-Created with CodeSandbox, football clubs from La Liga: images and information.
+Created with CodeSandbox, football clubs descriptions and information.
 
 ## Stack
  - React
