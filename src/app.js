@@ -26,6 +26,7 @@ export default function App() {
           ) {
             return val;
           }
+          return null;
         }).map((val, key) => {
           return (
             <Card
